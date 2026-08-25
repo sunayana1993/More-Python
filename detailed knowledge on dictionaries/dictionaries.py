@@ -5,3 +5,7 @@ print(price_lookup['banana'])
 print(price_lookup.values())
 print(price_lookup.keys())
 print(price_lookup.items())
+d={'k1':123,'k2':[0,1,2],'k3':{'insidekey':100}}
+print(d['k2'])
+print(d['k3']['insidekey'])
+print(d.values())
