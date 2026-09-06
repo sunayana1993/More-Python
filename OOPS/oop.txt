@@ -1,0 +1,8 @@
+create their own object that have method and attribute
+object.method_name()
+Method act as function that use information of the object
+
+repeatable and organized.
+
+Functions aren't enough for organization and repeatable.
+OOPS to create code that is more usable.

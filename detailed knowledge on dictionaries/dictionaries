@@ -1,0 +1,4 @@
+Dictionaries are unordered sequence or mapping of storing object
+it doesn't need indexing. You can access value using key
+Do dictionaries keep an order?
+->Dictionaries are mapping and do not retain order.

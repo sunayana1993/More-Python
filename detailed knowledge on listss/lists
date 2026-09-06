@@ -1,0 +1,5 @@
+Lists are ordered sequence that can hold variety of object
+separated by [] and commas
+[1,2,3,4,5]
+List support indexing and slicing
+it has variety of methods.

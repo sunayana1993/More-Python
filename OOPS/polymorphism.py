@@ -22,8 +22,12 @@ print(kiky.speak())
  #   print(pet)
  #   print(pet.speak())
 
+ #using method for polymorphism
+
 def pet_speak(pet):
     print(pet.speak())
 
 pet_speak(niko)
 pet_speak(kiky)
+
+#Abstract classes never expects to be instantiated

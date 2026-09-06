@@ -1,6 +1,7 @@
 class Animal():
 
     #class object attribute
+    #same for any instance of class
     species="mammal"
 
     def __init__(self,breed,type):
