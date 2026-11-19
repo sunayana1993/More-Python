@@ -12,3 +12,13 @@ print(list20[4:15])
 #comprehension
 listc=[num*num for num in range(10)]
 print(listc)
+
+liste=[num for num in list20 if num%2==0]
+print(liste)
+
+#list method
+listd=[10,1,2,10,3]
+listd.sort()
+print(listd)
+listd=list(dict.fromkeys(listd))
+print(listd)
